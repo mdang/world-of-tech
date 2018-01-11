@@ -1,41 +1,76 @@
-# The World of Tech
+# World of Tech
 
 *Sales Summit 2018*
 
 Overview of some of the most common technologies you can expect to encounter in a tech course for enterprise clients.
 
-## Agenda 
-> 3 min
+--- 
 
-- Topics to discuss
+### Agenda 
 
-## Bio 
-> 2 min
+- Why is this Important?
+- Tools
+  - CLI
+  - Code Editors
+  - Git + Version Control 
+- How the Web Works
+- Frontend
+  - HTML/CSS
+  - JavaScript (Client-side)
+- **Break**
+- Backend
+  - Backend Languages
+  - API's
+  - Databases
+- Frontend Frameworks
+- Q&A
 
-- Background in development
-- Background in teaching 
-- Background in enterprise 
+---
 
-## What & Why
-> 10 min
+### Background 
+
+- Professional developer since 2002
+- Taught 7 WDI cohorts in ATX starting with WDI-1
+- Taught first cohort at Capital One Developer Academy  
+
+## Why is this Important?
+> 5 min
 
 Why it's important to understand the concepts in this presentation
 
 ## Tools 
 
 ### CLI 
-> 5 min
+> 10 min
 
 Why we teach students to be proficient with the command line and terminal
 
-### Editors 
+## DEMO
+
+- Open the terminal by pressing `Command` + `Spacebar`
+- Type in **terminal** and hit `Enter`
+- `cd` to navigate to the Desktop
+- `touch` to create **test.txt**
+- `open test.txt` to edit the file. Enter some text and save. 
+- `cat test.txt` to view the contents of the file we created
+
+### Code Editors 
 > 2 min
 
-- Atom
-- Sublime
-- Visual Studio
-- XCode
-- Vim (demo)
+- [Atom](https://atom.io/)
+- [Sublime](https://www.sublimetext.com/)
+- [Visual Studio](https://code.visualstudio.com/)
+- [XCode](https://developer.apple.com/xcode/)
+- [Vim](http://www.vim.org/)
+
+Vim is for street cred 
+
+## DEMO
+
+> The only way to get a truly random string is to have a developer try to get out of Vim 
+
+- `cd ~/Desktop`
+- `vim test.txt`
 
 ### Git + Version Control
 > 10 min
@@ -43,7 +78,7 @@ Why we teach students to be proficient with the command line and terminal
 What is Git and why is version control critical for development teams
 
 ## How the Web Works 
-> 10 min
+> 15 min
 
 What do people mean when they say frontend/backend? What's involved on either side?
 
@@ -54,7 +89,7 @@ What do people mean when they say frontend/backend? What's involved on either si
 
 What role does HTML, CSS play? How does the browser render that content (e.g. DOM)
 
-### JavaScript - Client Side 
+### JavaScript - Client-side 
 > 10 min
 
 What's the difference between frontend JavaScript and backend JavaScript? 

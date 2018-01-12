@@ -62,13 +62,13 @@ Why we teach students to be proficient with the command line and terminal
 - General Development 
 	- [Atom](https://atom.io/)
 	- [Sublime](https://www.sublimetext.com/)
-- iOS
-	- [Xcode](https://developer.apple.com/xcode/)
 - Java 
 	- [Eclipse](https://www.eclipse.org/ide/)
 	- [IntelliJ](https://www.jetbrains.com/idea/)
 - ASP.NET
 	- [Visual Studio](https://code.visualstudio.com/)
+- iOS
+	- [Xcode](https://developer.apple.com/xcode/)
 - Street Cred
 	- [Vim](http://www.vim.org/)
 
@@ -82,7 +82,7 @@ Why we teach students to be proficient with the command line and terminal
 - `ESC` when you're done editing
 - `:wq` to save the file
 
-> The only way to get a truly random string is to have a developer try to get out of Vim 
+> To generate a truly random string, put a web developer in front of Vim and tell them to exit 
 
 ### Git + Version Control
 > 10 min
@@ -111,18 +111,22 @@ What's the difference between front-end JavaScript and back-end JavaScript?
 
 ## Back-end
 
-### Back-end Languages 
+### Languages 
 > 20 min
 
-* Node.js
-* Ruby
-* Python
-* PHP
-* Java
-* Scala
-* Go
-
 Why are there so many back-end languages and how does this affect what we're selling and training students for? 
+
+#### General
+
+* JavaScript - Node.js, API's
+* Python - Machine learning, AI
+* PHP - Over 80% of the web runs on PHP
+* Ruby - Popular among startups and medium size companies
+
+#### Enterprise 
+
+* Java - Proven, portable, maintainability, Android
+* ASP.NET - C#
 
 ### API's 
 > 10 min

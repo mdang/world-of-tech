@@ -35,13 +35,13 @@ Overview of some of the most common technologies you can expect to encounter in 
 
 ## Why is this Important?
 > 5 min
-> 
-> Why it's important to understand the concepts in this presentation
+
+No two clients you encounter will be running the same tech stack. There are so many different languages, frameworks, libraries and 3rd party services that can be leveraged by developers today. Despite this, there are certain foundational tools and concepts that will always be relevant no matter what they're working with.  
 
 ## Tools 
 
 ### CLI 
-> 10 min 
+> 5 min 
 > 
 > Why we teach students to be proficient with the command line and terminal
 
@@ -50,7 +50,10 @@ Overview of some of the most common technologies you can expect to encounter in 
 - Because Unix was written from the terminal up, most everything can be configured through the command line
 - It's much quicker to type in commands then to go through endless menu options to find what you're looking for
 
-## EXERCISE
+---
+
+### EXERCISE
+> 10 min
 
 - Open the terminal by pressing `Command` + `Spacebar`
 - Type in **terminal** and hit `Enter`
@@ -61,8 +64,9 @@ Overview of some of the most common technologies you can expect to encounter in 
 - Save the file and close it
 - `cat quote.txt` to view the contents of the file we created
 
+---
+
 ### Code Editors 
-> 2 min
 
 - General Development 
 	- [Atom](https://atom.io/)
@@ -77,7 +81,10 @@ Overview of some of the most common technologies you can expect to encounter in 
 - Street Cred
 	- [Vim](http://www.vim.org/)
 
-## EXERCISE
+---
+
+### EXERCISE
+> 10 min
 
 - `cd ~/Desktop`
 - `vim quote.txt`
@@ -89,8 +96,10 @@ Overview of some of the most common technologies you can expect to encounter in 
 
 > To generate a truly random string, put a web developer in front of Vim and tell them to exit 
 
+---
+
 ### Git + Version Control
-> 10 min
+> 5 min
 > 
 > What is Git and why is version control critical for development teams
 
@@ -114,7 +123,7 @@ Git gives developers the freedom to explore and try new things without the worry
 ## Front-end
 
 ### HTML/CSS 
-> 10 min
+> 5 min
 > 
 > What role does HTML, CSS play? How does the browser render that content (e.g. DOM)
 
@@ -123,8 +132,6 @@ Git gives developers the freedom to explore and try new things without the worry
 
 ### JavaScript - Client-side 
 > 10 min
-> 
-> What's the difference between front-end JavaScript and back-end JavaScript? 
 
 - Client-side JavaScript is for interactivity and runs in the browser
 - Allows developers to provide richer experiences like showing/hiding content based on user interactions
@@ -135,9 +142,9 @@ Git gives developers the freedom to explore and try new things without the worry
 ## Back-end
 
 ### Languages 
-> 20 min
+> 15 min
 > 
-> Why are there so many back-end languages and how does this affect what we're selling and training students for? 
+> Why are there so many back-end languages and how does this affect what we're selling and training workers for? 
 
 #### General
 
@@ -152,26 +159,26 @@ Git gives developers the freedom to explore and try new things without the worry
 * ASP.NET - C#
 
 ### API's 
-> 10 min
+> 5 min
 > 
 > What's an API and what role do they play for different types of companies
 
-- Why developers use 3rd party API's as opposed to their own
+- Why developers use 3rd party API's as opposed to their own software
 - Why companies spend resources to create and maintain them
 
 ### Databases 
 > 10 min
 > 
-> What's a database and the differences between relational and NoSQL databases?
+> What's a database and the core differences between relational and NoSQL databases?
 
-There are many different instances of SQL databases, each with tiny differences amongst themselves. Here are the most popular:
+There are many different instances of SQL databases, each with tiny differences amongst themselves. Here are some of the most popular:
 
 - PostgreSQL
 - MySQL
-- SQLite
-- Proprietary software like Oracle or Microsoft SQL Server
+- Oracle
+- Microsoft SQL Server
 
-Relational databases are dominant in the industry, so much that anything that not relational is lumped into NoSQL. 
+Relational databases are dominant in the industry, so much that anything that is not relational is lumped into the NoSQL category. 
 
 ## Front-end Frameworks 
 > 10 min

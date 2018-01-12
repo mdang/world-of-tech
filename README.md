@@ -127,10 +127,10 @@ Git gives developers the freedom to explore and try new things without the worry
 > What's the difference between front-end JavaScript and back-end JavaScript? 
 
 - Client-side JavaScript is for interactivity and runs in the browser
-- Allows developers to hide/show content, provides richer experiences
+- Allows developers to provide richer experiences like showing/hiding content based on user interactions
 
 ## Break
-> 5 min
+> 10 min
 
 ## Back-end
 
@@ -156,10 +156,22 @@ Git gives developers the freedom to explore and try new things without the worry
 > 
 > What's an API and what role do they play for different types of companies
 
+- Why developers use 3rd party API's as opposed to their own
+- Why companies spend resources to create and maintain them
+
 ### Databases 
 > 10 min
 > 
 > What's a database and the differences between relational and NoSQL databases?
+
+There are many different instances of SQL databases, each with tiny differences amongst themselves. Here are the most popular:
+
+- PostgreSQL
+- MySQL
+- SQLite
+- Proprietary software like Oracle or Microsoft SQL Server
+
+Relational databases are dominant in the industry, so much that anything that not relational is lumped into NoSQL. 
 
 ## Front-end Frameworks 
 > 10 min

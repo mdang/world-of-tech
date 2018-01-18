@@ -46,10 +46,10 @@ No two clients you encounter will be running the same tech stack. There are so m
 > 
 > Why we teach students to be proficient with the command line and terminal
 
-- There are things that can't be accomplished with a GUI, mainly because nobody bothered to write a GUI for that functionality
-- Automation. You can write scripts that perform any series of actions and have complete control over what happens
 - Because Unix was written from the terminal up, most everything can be configured through the command line
 - It's much quicker to type in commands than to go through endless menu options to find what you're looking for
+- Automation. You can write scripts that perform any series of actions and have complete control over what happens
+- There are things that can't be accomplished with a GUI, mainly because nobody bothered to write a GUI for that functionality
 
 ---
 
@@ -60,6 +60,7 @@ No two clients you encounter will be running the same tech stack. There are so m
 - Type in **terminal** and hit `Enter`
 - `cd ~/Desktop` to navigate to the desktop
 - `touch quote.txt` to create a file named **quote.txt**
+- `ls` to list the contents of your desktop. You should see the new file listed
 - `open quote.txt` to edit the file
 - Type in **Who looks outside, dreams; who looks inside, awakens** and hit `Enter`
 - Save the file and close it with your default text editor
@@ -123,8 +124,10 @@ Git gives developers the freedom to explore and try new things without the worry
 ![Client/server model](./assets/client_server.png)
 
 - Web vs internet 
-- IoT
+- IoT - [Samsung: By 2020, all of our products will be connected to the web](http://mashable.com/2015/01/05/samsung-internet-of-things)
 - CyberSecurity 
+
+> [DDoS attacks increased 91% in 2017 thanks to IoT](https://www.techrepublic.com/article/ddos-attacks-increased-91-in-2017-thanks-to-iot/)
 
 ## Front-end
 
@@ -152,7 +155,7 @@ Codepen example with HTML / CSS / JavaScript
 ---
 
 ## Break
-> 10 min
+> 5 min
 
 ## Back-end
 
@@ -164,7 +167,7 @@ Codepen example with HTML / CSS / JavaScript
 #### General
 
 * JavaScript - Node.js, API's
-* Python - Machine learning, AI
+* Python - Data Science, popular starter language 
 * PHP - Over 80% of the web runs on PHP
 * Ruby - Popular among startups and medium size companies
 
@@ -202,8 +205,7 @@ Relational databases are dominant in the industry, so much that anything that is
 > 10 min
 
 - Static file deployment vs dynamic 
-- Amazon Web Services 
-- IaaS vs PaaS
+- Amazon Web Services (IaaS vs PaaS)
 - Docker
 
 ## Front-end Frameworks 
